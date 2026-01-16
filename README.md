@@ -15,9 +15,12 @@ Also this is a good starting for ai agents to iterate upon and integrate/change 
 ## How to use?
 
 ```bash
+git clone git@github.com:aditya-mitra/simple-ai-chat.git
+cd simple-ai-chat
 npm install
 OPENAI_API_KEY=<your-api-key> npm run dev
 ```
+
 Open [http://localhost:5173](http://localhost:5173) in your browser to see the chat interface.
 
 Simply type your message in the input field and press Send or hit Enter. The AI will respond in real-time with streaming responses.
