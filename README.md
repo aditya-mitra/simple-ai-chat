@@ -1,6 +1,6 @@
 # AI Chatbot
 
-A simple chatbot built with React, TypeScript, and Vercel AI SDK.
+A simple ai chatbot. Opens in the browser and quickly tests different api endpoints.
 
 <p align="center">
   <img width="460" height="300" src="./public/screenshot.png" alt="app screenshot">
@@ -8,7 +8,7 @@ A simple chatbot built with React, TypeScript, and Vercel AI SDK.
 
 ## Why build this?
 
-I was searching for an simple AI chat interface so that I can test some scenarios in the AI api. The closest I could find was the [vercel nextjs template](https://vercel.com/templates/next.js/nextjs-ai-chatbot) which was too complicated for a simple quick spinup.
+I was searching for an simple AI chat interface so that I could programmatically test some scenarios with the AI api endpoints. The closest I could find was the [vercel nextjs template](https://vercel.com/templates/next.js/nextjs-ai-chatbot) which was too complicated for a simple quick spinup.
 
 Also this is a good starting for ai agents to iterate upon and integrate/change features (for example, "replace openai api support with anthropic support").
 
