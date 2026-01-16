@@ -2,9 +2,9 @@
 
 A simple chatbot built with React, TypeScript, and Vercel AI SDK.
 
-<center>
-    ![screenshot](./public/screenshot.png)
-</center>
+<p align="center">
+  <img width="460" height="300" src="./public/screenshot.png" alt="app screenshot">
+</p>
 
 ## Why build this?
 
